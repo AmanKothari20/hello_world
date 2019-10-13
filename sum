@@ -1,0 +1,21 @@
+#include<stdio.h>
+int addition(int n);
+int main()
+{
+    int x;
+    printf("Enter a number\n");
+    scanf("%d",&x);
+    printf("sum = %d",addition(x));
+    return 0;
+}
+int addition(int n)
+{
+    int sum;
+    if (n!=0)
+        return n+addition(n-1);
+    else
+        return n;
+
+}
+
+
