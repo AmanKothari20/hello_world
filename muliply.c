@@ -1,3 +1,5 @@
+// Basic operation for multiplication is addition
+
 #include <stdio.h>
 int main()
 {
