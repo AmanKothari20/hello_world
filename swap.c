@@ -4,10 +4,10 @@
 
 void Swap(int *a, int *b)
 {
-    int c;
-    c=*a;
+    int d;
+    d=*a;
     *a=*b;
-    *b=c;
+    *b=d;
 }
 int main()
 {
