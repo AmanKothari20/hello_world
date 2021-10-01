@@ -1,5 +1,7 @@
 #include<stdio.h>
 int addition(int n);
+#include<stdio.h>
+int addition(int n);
 int main()
 {
     int x;
