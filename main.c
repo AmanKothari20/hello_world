@@ -5,7 +5,7 @@
 Write your code in this editor and press "Run" button to compile and execute it.
 
 *******************************************************************************/
-
+//sajbkjabkd
 #include <stdio.h>
 
 struct stacks{
