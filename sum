@@ -1,5 +1,7 @@
 #include<stdio.h>
 int addition(int n);
+#include<stdio.h>
+int addition(int n);
 int main()
 {
     int x;
@@ -8,6 +10,7 @@ int main()
     printf("sum = %d",addition(x));
     return 0;
 }
+//Function to add two integers
 int addition(int n)
 {
     int sum;
