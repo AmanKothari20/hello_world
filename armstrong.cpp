@@ -1,4 +1,5 @@
 #include <stdio.h>
+//ancdsada
 #include <math.h>
 static int h=0;
 void prime(int num)
