@@ -10,7 +10,7 @@ int main()
     printf("sum = %d",addition(x));
     return 0;
 }
-//Function to add two integers
+//
 int addition(int n)
 {
     int sum;
