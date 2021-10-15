@@ -33,6 +33,7 @@ int main()
             printf("Enter elements b%d%d: ",i+1, j+1);
             scanf("%d",&b[i][j]);
         }
+    //hello
     // Initializing all elements of result matrix to 0
     for(i=0; i<r1; ++i)
         for(j=0; j<c2; ++j)
