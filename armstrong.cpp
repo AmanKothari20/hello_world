@@ -10,6 +10,7 @@ void prime(int num)
             if(num%i==0)
                {;
                    num/=i;
+                //hello
                    count++;
                }
         }
