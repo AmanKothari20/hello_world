@@ -31,6 +31,7 @@ void push(int rd)
 }
 
 void createTower(struct stacks *temp){
+  
     if(temp!=NULL){
         if(top2 == NULL && top3 == NULL){
             top3 = temp;
@@ -81,6 +82,7 @@ void display(struct stacks *temp){
 int main()
 {
     push(12);
+    push(11);
     push(8);
     push(3);
     
