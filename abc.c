@@ -27,7 +27,6 @@ int main()
  
     while(X)
     {
-        printf("\n");
         printf("%s : ", KEY);
  
         Calc_oprn=getche();
