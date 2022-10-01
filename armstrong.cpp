@@ -28,7 +28,7 @@ void prime(int num)
     }
 
     if(count<2)
-    printf("\nThe number is prime");
+    printf("\nPrime Number");
     else
     printf("\nThe number is NOT prime");
     h++;
