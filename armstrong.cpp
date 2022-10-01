@@ -32,7 +32,7 @@ void prime(int num)
     if(count<2)
     printf("\nThe number is prime");
     else
-    printf("\nThe number is NOT prime");
+    printf("\nThe number is not prime");
     h++;
 }
 
