@@ -4,6 +4,7 @@ export interface UseSliderProps {
      * The minimum allowed value of the slider. Cannot be greater than max.
      * @default 0
      */
+    
     min?: number;
     /**
      * The maximum allowed value of the slider. Cannot be less than min.
